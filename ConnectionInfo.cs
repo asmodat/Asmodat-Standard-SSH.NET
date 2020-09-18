@@ -325,6 +325,7 @@ namespace Renci.SshNet
                     {"diffie-hellman-group-exchange-sha256", typeof (KeyExchangeDiffieHellmanGroupExchangeSha256)},
                     {"diffie-hellman-group-exchange-sha1", typeof (KeyExchangeDiffieHellmanGroupExchangeSha1)},
                     {"diffie-hellman-group14-sha1", typeof (KeyExchangeDiffieHellmanGroup14Sha1)},
+                    {"diffie-hellman-group14-sha256", typeof (KeyExchangeDiffieHellmanGroup14Sha256)},
                     {"diffie-hellman-group1-sha1", typeof (KeyExchangeDiffieHellmanGroup1Sha1)},
                     //{"ecdh-sha2-nistp256", typeof(KeyExchangeEllipticCurveDiffieHellman)},
                     //{"ecdh-sha2-nistp256", typeof(...)},
